@@ -1,4 +1,4 @@
-/*body{
+body{
   font-family: sans-serif;
 }
 
@@ -10,24 +10,25 @@ header{
 }
 .main_navigation{
   padding-top: 12px;
-  border-top: 1px dotted #452;
-
-}*/
+}
 
 thead{
-  border: .25px solid #1fabe5;
   background-color: #1fabe5;
 }
 
-tbody td{
-  border: .25px solid #1fabe5;
+table{
   border-collapse: collapse;
 }
 
-/*.main_navigation a{
+tbody td{
+  border: .5px solid #1fabe5;
+}
+
+.main_navigation a{
   padding: .5em 2em;
-  text-decoration: none;
-  border: .25px solid #D1D67C;
+  /*text-decoration: none;*/
+  border: .25px solid #eee;
+  border-radius: 3.5px;
   color: #eee;
   font-weight: bold;
 }
