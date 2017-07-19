@@ -2,6 +2,12 @@ body{
   font-family: sans-serif;
 
 }
+.TableDog{
+  color: #ffffff;
+  border: .5px solid: #eee;
+}
+
+}
 
 header{
   background-color: #ff8523;
@@ -20,13 +26,12 @@ header{
 
 .name{
   background-color: #ff8523;
-  padding: 1em 2em;
-  margin: 2em;
-
+  padding-left: 1em;
 }
 
 form{
   background-color: #dddddd;
+  padding-left: 1em;
 }
 .main_navigation a{
   text-decoration:none;
@@ -38,6 +43,10 @@ thead{
 
 table{
   border-collapse: collapse;
+  width: 100%;
+  text-align: left;
+  text-indent: 1em;
+
 }
 
 tbody td{
@@ -68,14 +77,13 @@ a{
    color: #1fabe5;
  }
 
-table{
-  border-top
+tr{
+  height: 3em;
 }
 
-
-
-
-
+td{
+  height: 3em;
+}
 
 /*
 font info:
