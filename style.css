@@ -1,3 +1,29 @@
+body{
+  font-family: sans-serif;
+}
+
+header{
+  background-color: #ff8523;
+  width: 100%;
+  margin: 0px;
+}
+
+h2, h3{
+  color: #1fabe5;
+}
+
+ul{
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
 /*
 font info:
     family - Helvetica, Arial, sans-serif
