@@ -1,5 +1,6 @@
 body{
   font-family: sans-serif;
+
 }
 
 header{
@@ -7,9 +8,28 @@ header{
   width: 100%;
   margin: 0%;
   padding-bottom: 4em;
+  padding-top: 1em;
 }
 .main_navigation{
   padding-top: 12px;
+  padding-left: 12px;
+}
+#page_content{
+  margin: 10px;
+}
+
+.name{
+  background-color: #ff8523;
+  padding: 1em 2em;
+  margin: 2em;
+
+}
+
+form{
+  background-color: #dddddd;
+}
+.main_navigation a{
+  text-decoration:none;
 }
 
 thead{
@@ -26,7 +46,6 @@ tbody td{
 
 .main_navigation a{
   padding: .5em 2em;
-  /*text-decoration: none;*/
   border: .25px solid #eee;
   border-radius: 3.5px;
   color: #eee;
