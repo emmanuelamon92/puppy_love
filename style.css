@@ -63,6 +63,9 @@ thead{
   background-color: #1fabe5;
 }
 
+.TextArea{
+  padding: 30px;
+}
 table{
   border-collapse: collapse;
   width: 100%;
