@@ -21,9 +21,16 @@ body{
 }
 
 .FormSize form{
-  height: 50em;
+  height: 44em;
   border-radius: 5px;
 }
+
+/*.FormSize h2{
+  font-size: 50px;
+  color: #1fabe5;
+  font-weight: bold;
+
+}*/
 
 .city_container{
   margin-top: 2em;
@@ -38,7 +45,7 @@ header{
   background-color: #ff8523;
   width: 100%;
   margin: 0%;
-  padding-bottom: 4em;
+  padding-bottom: 2.5em;
   padding-top: 1em;
 
 }
@@ -73,7 +80,7 @@ body > div{
 
 form{
   background-color: #dddddd;
-  padding: 1em;
+  padding: 2em;
   font-weight: bold;
 }
 
@@ -133,8 +140,8 @@ textarea{
   border-radius: 10px;
   color: white;
   font-weight: bold;
-  padding: 30px;
-  font-size: 20px;
+  padding: 20px;
+  font-size: 25px;
 }
 
 h2, h3{
